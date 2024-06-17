@@ -1,16 +1,25 @@
-Official Pytorch Implementation of "A Multi-Focus-Driven Multi-Branch Network for Robust Multimodal Sentiment Analysis"
+> Official Pytorch Implementation of "A Multi-Focus-Driven Multi-Branch Network for Robust Multimodal Sentiment Analysis"
 
-<!--
-**MFMB-Net/MFMB-Net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Overview](docs/Figure2_Overview.png)
 
-Here are some ideas to get you started:
+## Table of Contents
+- [Setup](#setup)
+- [Download Datasets](#download-datasets)
+- [Train](#train)
+- [Acknowledgments](#acknowledgments)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Setup
+Python version >= 3.8
+```bash
+pip install -r requirement.txt
+```
+
+## Download Datasets
+Provide public Multimodal Sentiment Analysis Datasets by Google Cloud Drive
+
+[CMU-MOSI](https://arxiv.org/abs/1606.06259): https://drive.google.com/drive/folders/1mGDZe5ZAcb3kmrQjvpCjANcS9Nq-nEvy
+
+[CMU-MOSEI](https://aclanthology.org/P18-1208): https://drive.google.com/drive/folders/1OTmRiJ00gG4u2JIujLpsJh-cJdVDLvXc
+
+## Train
+
