@@ -1,4 +1,4 @@
-## Official Pytorch Implementation of "A Multi-Focus-Driven Multi-Branch Network for Robust Multimodal Sentiment Analysis"
+Official Pytorch Implementation of "A Multi-Focus-Driven Multi-Branch Network for Robust Multimodal Sentiment Analysis"
 
 <!--
 **MFMB-Net/MFMB-Net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
